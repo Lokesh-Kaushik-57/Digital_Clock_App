@@ -306,7 +306,7 @@ select:focus {
 
 
 
-@media screen and (max-width: 929px) {
+@media screen and (max-width: 501px) {
     .Container {
         flex-direction: column;
         height: fit-content;
@@ -421,7 +421,7 @@ select:focus {
 
 }
 
-@media screen and (min-width: 501px) and (max-width: 929px) {
+@media screen and (min-width: 502px) and (max-width: 929px) {
 
     .LeftContainer {
         gap: 20px;
