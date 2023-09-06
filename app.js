@@ -35,7 +35,7 @@ function setTime() {
     if (newHour >= 16 && newHour < 20) {
         Message.innerText = "GOOD EVENING !!"
     }
-    if (newHour >= 20 && newHour < 23) {
+    if (newHour >= 20 && newHour < 24) {
         Message.innerText = "GOOD NIGHT !!"
     }
 
